@@ -3,4 +3,7 @@
 .idea
 Euri_ai.iml
 .env
-./opencv_basic/data/*.*
+./opencv_basic/data/*.jpg
+./opencv_basic/data/*.jpeg
+./opencv_basic/data/*.mp4
+./opencv_basic/data/*.png

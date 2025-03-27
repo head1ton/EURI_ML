@@ -3,4 +3,4 @@
 .idea
 Euri_ai.iml
 .env
-opencv_basic/data/*
+./opencv_basic/data/*.*

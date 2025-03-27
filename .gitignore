@@ -1,0 +1,6 @@
+*.pt
+.venv
+.idea
+Euri_ai.iml
+.env
+./opencv_basic/data

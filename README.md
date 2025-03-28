@@ -2,6 +2,18 @@
 
 ## 🎬 Computer Vision
 
+<img src="face_emotion_detection/face_detection.png" alt="opencv" width="300px" height="160px" align="left" style="padding-right:20px;object-fit:cover" />
+<strong>Text Detection</strong><br />
+<div><strong>Created: 29 May 2025</strong></div>
+<br/>
+ <a href="https://ai.google.dev/edge/mediapipe/solutions/guide?hl=ko" title="mediapipe"><strong>mediapipe</strong></a>, <br/>
+ <a href="https://github.com/google-ai-edge/mediapipe" title="mediapipe github"><strong>mediapipe github</strong></a>, <br/>
+ opencv<br/>
+
+<br/>
+<br/>
+
+
 <img src="image_background_remove/Image_Background_Remove.png" alt="Image Background Remove" width="300px" align="left" style="padding-right:20px" />
 <strong>Image Background Remove</strong>
 <div><strong>Created: 28 May 2025</strong></div>

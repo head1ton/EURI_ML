@@ -16,8 +16,10 @@ for emotion_index, emotion in enumerate(sorted(os.listdir(data_dir))):
         image = cv2.imread(image_path)
 
         face_landmarks = get_face_landmarks(image)
+        # print(len(face_landmarks))
 
-        face_landmarks.append(int(emotion_index))
-        output.append(face_landmarks)
+        if len(face_landmarks) == 1404:
+            face_landmarks.append(int(emotion_index))
+            output.append(face_landmarks)
 
 np.savetxt('data.txt', np.asarray(output))

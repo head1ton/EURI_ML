@@ -10,6 +10,7 @@
  streamlit_image_coordinates doesn't work properly, so it's handled in the default way. Subsequent modifications are required.
 
 <br/>
+<br/>
 
 <img src="text-detection/text-detection.jpg" alt="opencv" width="300px" align="left" style="padding-right:20px" />
 <strong>Text Detection</strong><br />

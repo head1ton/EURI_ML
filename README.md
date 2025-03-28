@@ -1,6 +1,6 @@
 
 
-## 🎬 tutorials
+## 🎬 Computer Vision
 
 <img src="image_background_remove/Image_Background_Remove.png" alt="Image Background Remove" width="300px" align="left" style="padding-right:20px" />
 <strong>Image Background Remove</strong>

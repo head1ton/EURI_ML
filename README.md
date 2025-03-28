@@ -12,7 +12,7 @@
 <br/>
 
 <img src="text-detection/text-detection.jpg" alt="opencv" width="300px" align="left" style="padding-right:20px" />
-<strong>Text Detection Tutorial</strong><br />
+<strong>Text Detection</strong><br />
 <div><strong>Created: 28 May 2025</strong></div>
 <br/>
  pytesseract, <br/>

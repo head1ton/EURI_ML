@@ -14,7 +14,7 @@
 <br/>
 <br/>
 
-<img src="sign_language_detector/sign.png" alt="opencv" width="300px" height="160px" align="left" style="padding-right:20px;object-fit:fill" />
+<img src="sign_language_detector/sign.png" alt="sign language" width="300px" height="160px" align="left" style="padding-right:20px;object-fit:fill" />
 <strong>Sign Language Detection</strong><br />
 <div><strong>Created: 29 May 2025</strong></div>
 <br/>

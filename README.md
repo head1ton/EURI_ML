@@ -2,6 +2,18 @@
 
 ## 🎬 Computer Vision
 
+<img src="pneumonia-classification/pneumonia.png" alt="opencv" width="300px" height="160px" align="left" style="padding-right:20px;object-fit:fill" />
+<strong>Pneumonia classification</strong><br />
+<div><strong>Created: 29 May 2025</strong></div>
+<br/>
+ Pneumonia classification<br/>
+ tensorflow, keras, streamlit
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+
 <img src="sign_language_detector/sign.png" alt="opencv" width="300px" height="160px" align="left" style="padding-right:20px;object-fit:fill" />
 <strong>Sign Language Detection</strong><br />
 <div><strong>Created: 29 May 2025</strong></div>

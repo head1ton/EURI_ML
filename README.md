@@ -8,7 +8,7 @@
 <br/>
  Pneumonia classification<br/>
  tensorflow, keras, streamlit
-<br/>
+
 <br/>
 <br/>
 <br/>
@@ -19,8 +19,7 @@
 <div><strong>Created: 29 May 2025</strong></div>
 <br/>
  <a href="https://ai.google.dev/edge/mediapipe/solutions/guide?hl=ko" title="mediapipe"><strong>mediapipe</strong></a>, <br/>
- <a href="https://github.com/google-ai-edge/mediapipe" title="mediapipe github"><strong>mediapipe github</strong></a>, <br/>
- opencv<br/>
+ <a href="https://github.com/google-ai-edge/mediapipe" title="mediapipe github"><strong>mediapipe github</strong></a>, opencv<br/>
  webcam dataset, create dataset
 
 <br/>
@@ -58,7 +57,6 @@
  easyocr, <br/>
  aws textract<br/>
 
-<br/>
 <br/>
 <br/>
 

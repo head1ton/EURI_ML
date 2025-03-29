@@ -2,6 +2,19 @@
 
 ## 🎬 Computer Vision
 
+<img src="sign_language_detector/sign.png" alt="opencv" width="300px" height="160px" align="left" style="padding-right:20px;object-fit:fill" />
+<strong>Sign Language Detection</strong><br />
+<div><strong>Created: 29 May 2025</strong></div>
+<br/>
+ <a href="https://ai.google.dev/edge/mediapipe/solutions/guide?hl=ko" title="mediapipe"><strong>mediapipe</strong></a>, <br/>
+ <a href="https://github.com/google-ai-edge/mediapipe" title="mediapipe github"><strong>mediapipe github</strong></a>, <br/>
+ opencv<br/>
+ webcam dataset, create dataset
+
+<br/>
+<br/>
+<br/>
+
 <img src="face_emotion_detection/face_detection.png" alt="opencv" width="300px" height="160px" align="left" style="padding-right:20px;object-fit:cover" />
 <strong>Text Detection</strong><br />
 <div><strong>Created: 29 May 2025</strong></div>

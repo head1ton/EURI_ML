@@ -4,4 +4,4 @@
 Euri_ai.iml
 .env
 ./opencv_basic/data
-./sign_language_detector/data
+./sign_language_detector/data/*

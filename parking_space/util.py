@@ -7,7 +7,7 @@ import cv2
 EMPTY = True
 NOT_EMPTY = False
 
-MODEL = pickle.load(open("model.p", "rb"))
+MODEL = pickle.load(open("./model/model.p", "rb"))
 
 def empty_or_not(spot_bgr):
     flat_data = []
@@ -25,15 +25,15 @@ def empty_or_not(spot_bgr):
 
 def get_parking_spots_bboxes(connected_components):
 
-    (total_labels, label_ids, values, centroid) = connected_components
+    (ret_val, labels, stats, centroid) = connected_components
 
     slots = []
     coef = 1
-    for i in range(1, total_labels):
-        x1 = int(values[i, cv2.CC_STAT_LEFT] * coef)
-        y1 = int(values[i, cv2.CC_STAT_TOP] * coef)
-        w = int(values[i, cv2.CC_STAT_WIDTH] * coef)
-        h = int(values[i, cv2.CC_STAT_HEIGHT] * coef)
+    for i in range(1, ret_val):
+        x1 = int(stats[i, cv2.CC_STAT_LEFT] * coef)
+        y1 = int(stats[i, cv2.CC_STAT_TOP] * coef)
+        w = int(stats[i, cv2.CC_STAT_WIDTH] * coef)
+        h = int(stats[i, cv2.CC_STAT_HEIGHT] * coef)
 
         slots.append([x1, y1, w, h])
 
